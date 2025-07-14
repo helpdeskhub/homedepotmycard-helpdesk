@@ -1,12 +1,13 @@
 homedepot.com/mycard - Sign in, create or secure your account online
 =====================================================================
 
-You need to visit `homedepot.com/mycard <https://www.homedepot.com/mycard>`_ to securely log in, manage your Home Depot credit card, check your balance, pay bills, and view transaction history. This guide walks you through every step, including login help, account setup, and troubleshooting for a smooth experience.
-
+If you're a Home Depot credit cardholder, managing your account online through `homedepot.com/mycard <https://www.homedepot.com/mycard>`_ is essential for keeping track of purchases, checking your balance, making payments, and staying on top of your credit. Whether you're logging in for the first time or trying to secure your account, this guide will walk you through every step you need to know.
 
 .. image:: get-start-button.png
    :alt: Homedepot.com/mycard 
-   :target: 
+   :target: https://pre.im/?4YTrHbkkyqwEeuUcVuhD0b2bJ9wlch7ZIZQlLxOVDY2esu9zlleamVvvdUyiUDZowPfQEKz6UQ3K0
+
+
 
 
 
@@ -16,7 +17,7 @@ You need to visit `homedepot.com/mycard <https://www.homedepot.com/mycard>`_ to 
 What is homedepot.com/mycard?
 =============================
 
-`homedepot.com/mycard <https://www.homedepot.com/mycard>`_ is the official Home Depot portal where you can **sign in**, 
+`Homedepot.com/mycard <https://www.homedepot.com/mycard>`_ is the official Home Depot portal where you can **sign in**, 
 **create an online account**, and **manage your Home Depot Consumer Credit Card** or 
 **Project Loan** account. This page is powered by **CitiBank**, the issuer of Home Depot 
 credit cards.
